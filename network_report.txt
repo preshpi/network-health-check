@@ -1,0 +1,30 @@
+NETWORK HEALTH REPORT
+=====================
+
+1. SERVER INFORMATION
+----------------------
+Hostname: PreciouEgwuenu3
+Current User: preciousegwuenu
+Date and Time: Sun Jun  7 15:37:35 WAT 2026
+
+2. NETWORK INFORMATION
+----------------------
+IP Address: 
+Default Gateway: 
+DNS Server: 192.168.0.1
+
+3. INTERNET CONNECTIVITY
+-------------------------
+Internet Connectivity: UP
+
+4. DNS RESOLUTION
+------------------
+DNS Resolution: WORKING
+
+5. WEBSITE AVAILABILITY
+------------------------
+google.com : UP
+github.com : UP
+amazon.com : DOWN
+
+Report generated successfully: network_report.txt
